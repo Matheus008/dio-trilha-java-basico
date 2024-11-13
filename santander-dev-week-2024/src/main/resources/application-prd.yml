@@ -7,3 +7,4 @@ spring:
     open-in-view: false
     hibernate:
       ddl-auto: validate
+// "create" para criar as tabelas  no banco de dados
